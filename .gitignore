@@ -8,6 +8,9 @@ yolov8n.pt
 # Ignore runs folder
 runs/*
 
+# Ignore submission
+submission.csv
+
 ### macOS ###
 # General
 .DS_Store
