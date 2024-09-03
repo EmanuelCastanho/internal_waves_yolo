@@ -24,7 +24,7 @@ A jupyter notebook created to solve the AIR Centre's Kaggle competition about Au
 conda create -n internal_waves_yolo-env python=3.10
 conda activate internal_waves_yolo-env
 pip install ultralytics==8.2.82
-pip install tensorflow==2.17.0
+pip install tensorflow==2.16.2
 pip install -U scikit-learn==1.5.1
 pip install kaggle==1.6.17
 ```
