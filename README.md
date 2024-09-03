@@ -33,7 +33,7 @@ pip install kaggle==1.6.17
 <!-- https://openincolab.com -->
 
 ***internal_waves_yolo.ipynb***<br>
-<a target="_blank" href="https://github.com/EmanuelCastanho/internal_waves_yolo/blob/main/internal_waves_yolo.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github.com/EmanuelCastanho/internal_waves_yolo/blob/main/internal_waves_yolo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
